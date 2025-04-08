@@ -1,0 +1,17 @@
+{
+  "album_title": "Flood Variation",
+  "artist": "0hm",
+  "year": "2024",
+  "tracks": [
+    {"number": 1, "title": "Péter", "duration": "1:13"},
+    {"number": 2, "title": "Sikerülni fog Péter", "duration": "3:48"},
+    {"number": 3, "title": "Szabadság", "duration": "2:05"},
+    {"number": 4, "title": "Haza", "duration": "1:19"},
+    {"number": 5, "title": "Becsület", "duration": "3:59"},
+    {"number": 6, "title": "Elvárjuk", "duration": "1:51"},
+    {"number": 7, "title": "a", "duration": "1:33"}
+  ],
+  "album_url": "https://open.spotify.com/album/2bduIXtKIevJL0wc6qCts5",
+  "total_tracks": 7,
+  "total_duration": "15:48"
+}

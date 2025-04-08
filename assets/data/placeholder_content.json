@@ -1,0 +1,226 @@
+{
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "music": "Music",
+      "services": "Services",
+      "education": "Education",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Multi-Modal Visions Emerging From The Collective Subconscious",
+      "subtitle": "Innovative AI consulting and creative solutions for the modern digital landscape",
+      "cta": "Explore Our Services"
+    },
+    "about": {
+      "title": "About 0HM.AI",
+      "description": "We are a forward-thinking AI consulting company specializing in software development with Java, Python, and cutting-edge AI tools. Our approach combines technical expertise with creative vision, helping businesses harness the power of artificial intelligence to transform their operations and create new possibilities.",
+      "cards": [
+        {
+          "title": "Software Development",
+          "description": "Custom solutions using Java, Python, and the latest AI frameworks to solve complex business challenges."
+        },
+        {
+          "title": "AI Integration",
+          "description": "Seamlessly incorporate artificial intelligence into your existing systems and workflows."
+        },
+        {
+          "title": "Creative Vision",
+          "description": "Unique perspective that blends technical innovation with artistic and spiritual insights."
+        }
+      ]
+    },
+    "music": {
+      "title": "Music Showcase",
+      "description": "Experience the sonic dimension of our creative vision through our music. Our compositions blend electronic elements with organic textures, creating immersive soundscapes that reflect our multi-modal approach to creativity and technology."
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "We offer a comprehensive range of services designed to help businesses leverage the power of AI and modern software development.",
+      "items": [
+        {
+          "title": "Java Development",
+          "description": "Enterprise-grade applications built with Java's robust ecosystem and frameworks."
+        },
+        {
+          "title": "Python Solutions",
+          "description": "Flexible and powerful Python development for data science, web applications, and automation."
+        },
+        {
+          "title": "AI Implementation",
+          "description": "Custom AI solutions using the latest tools and frameworks to solve specific business challenges."
+        },
+        {
+          "title": "Digital Transformation",
+          "description": "Comprehensive strategies to modernize your business with AI-powered technologies."
+        }
+      ]
+    },
+    "education": {
+      "title": "Education Courses",
+      "description": "Expand your knowledge and skills with our specialized courses in brand management and music generation.",
+      "courses": [
+        {
+          "title": "Brand Management Mastery",
+          "description": "Learn how to build and maintain a powerful brand identity in the digital age using AI-powered tools and strategies.",
+          "duration": "8 weeks",
+          "price": "$499"
+        },
+        {
+          "title": "AI Music Generation",
+          "description": "Explore the intersection of artificial intelligence and music creation, learning to use cutting-edge tools to produce unique compositions.",
+          "duration": "6 weeks",
+          "price": "$399"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "description": "Ready to transform your business with AI? Contact us today to discuss your project or learn more about our services.",
+      "email": "info@0hm.ai",
+      "phone": "+1 (555) 123-4567",
+      "address": "Budapest, Hungary",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send Message"
+      }
+    },
+    "footer": {
+      "about": "0HM.AI is an innovative AI consulting company specializing in software development, creative solutions, and educational services.",
+      "links": {
+        "title": "Quick Links",
+        "items": [
+          {"text": "Home", "url": "#home"},
+          {"text": "About", "url": "#about"},
+          {"text": "Music", "url": "#music"},
+          {"text": "Services", "url": "#services"},
+          {"text": "Education", "url": "#education"},
+          {"text": "Contact", "url": "#contact"}
+        ]
+      },
+      "newsletter": {
+        "title": "Newsletter",
+        "description": "Subscribe to our newsletter for the latest updates and insights.",
+        "placeholder": "Your email",
+        "button": "Subscribe"
+      },
+      "copyright": "© 2025 0HM.AI. All rights reserved."
+    }
+  },
+  "hu": {
+    "navigation": {
+      "home": "Főoldal",
+      "about": "Rólunk",
+      "music": "Zene",
+      "services": "Szolgáltatások",
+      "education": "Oktatás",
+      "contact": "Kapcsolat"
+    },
+    "hero": {
+      "title": "Multimodális Víziók A Kollektív Tudatalattiból",
+      "subtitle": "Innovatív AI tanácsadás és kreatív megoldások a modern digitális környezethez",
+      "cta": "Fedezd Fel Szolgáltatásainkat"
+    },
+    "about": {
+      "title": "A 0HM.AI-ról",
+      "description": "Előremutató AI tanácsadó cég vagyunk, amely Java, Python és élvonalbeli AI eszközökkel végzett szoftverfejlesztésre specializálódott. Megközelítésünk ötvözi a technikai szakértelmet a kreatív látásmóddal, segítve a vállalkozásokat a mesterséges intelligencia erejének kiaknázásában működésük átalakítására és új lehetőségek megteremtésére.",
+      "cards": [
+        {
+          "title": "Szoftverfejlesztés",
+          "description": "Egyedi megoldások Java, Python és a legújabb AI keretrendszerek használatával komplex üzleti kihívások megoldására."
+        },
+        {
+          "title": "AI Integráció",
+          "description": "A mesterséges intelligencia zökkenőmentes beépítése meglévő rendszereibe és munkafolyamataiba."
+        },
+        {
+          "title": "Kreatív Látásmód",
+          "description": "Egyedi perspektíva, amely ötvözi a technikai innovációt a művészi és spirituális meglátásokkal."
+        }
+      ]
+    },
+    "music": {
+      "title": "Zenei Bemutató",
+      "description": "Tapasztald meg kreatív víziónk hangzó dimenzióját zenénken keresztül. Kompozícióink elektronikus elemeket ötvöznek organikus textúrákkal, immerzív hangképeket teremtve, amelyek tükrözik multimodális megközelítésünket a kreativitás és technológia terén."
+    },
+    "services": {
+      "title": "Szolgáltatásaink",
+      "description": "Átfogó szolgáltatásokat kínálunk, amelyeket úgy terveztünk, hogy segítsék a vállalkozásokat az AI és a modern szoftverfejlesztés erejének kihasználásában.",
+      "items": [
+        {
+          "title": "Java Fejlesztés",
+          "description": "Vállalati szintű alkalmazások a Java robusztus ökoszisztémájával és keretrendszereivel."
+        },
+        {
+          "title": "Python Megoldások",
+          "description": "Rugalmas és hatékony Python fejlesztés adattudományhoz, webalkalmazásokhoz és automatizáláshoz."
+        },
+        {
+          "title": "AI Implementáció",
+          "description": "Egyedi AI megoldások a legújabb eszközök és keretrendszerek használatával specifikus üzleti kihívások megoldására."
+        },
+        {
+          "title": "Digitális Átalakulás",
+          "description": "Átfogó stratégiák vállalkozása modernizálására AI-alapú technológiákkal."
+        }
+      ]
+    },
+    "education": {
+      "title": "Oktatási Kurzusok",
+      "description": "Bővítsd tudásodat és készségeidet specializált kurzusainkkal a márkaépítés és zenei alkotás területén.",
+      "courses": [
+        {
+          "title": "Márkaépítési Mesterség",
+          "description": "Tanuld meg, hogyan építs és tarts fenn erős márkaidentitást a digitális korban AI-alapú eszközök és stratégiák segítségével.",
+          "duration": "8 hét",
+          "price": "499€"
+        },
+        {
+          "title": "AI Zenei Alkotás",
+          "description": "Fedezd fel a mesterséges intelligencia és a zenei alkotás metszéspontját, megtanulva a legmodernebb eszközök használatát egyedi kompozíciók létrehozására.",
+          "duration": "6 hét",
+          "price": "399€"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Kapcsolat",
+      "description": "Készen állsz vállalkozásod átalakítására az AI segítségével? Vedd fel velünk a kapcsolatot még ma, hogy megbeszéljük projektedet vagy többet tudj meg szolgáltatásainkról.",
+      "email": "info@0hm.ai",
+      "phone": "+36 (30) 123-4567",
+      "address": "Budapest, Magyarország",
+      "form": {
+        "name": "Név",
+        "email": "Email",
+        "subject": "Tárgy",
+        "message": "Üzenet",
+        "submit": "Üzenet Küldése"
+      }
+    },
+    "footer": {
+      "about": "A 0HM.AI egy innovatív AI tanácsadó cég, amely szoftverfejlesztésre, kreatív megoldásokra és oktatási szolgáltatásokra specializálódott.",
+      "links": {
+        "title": "Gyors Linkek",
+        "items": [
+          {"text": "Főoldal", "url": "#home"},
+          {"text": "Rólunk", "url": "#about"},
+          {"text": "Zene", "url": "#music"},
+          {"text": "Szolgáltatások", "url": "#services"},
+          {"text": "Oktatás", "url": "#education"},
+          {"text": "Kapcsolat", "url": "#contact"}
+        ]
+      },
+      "newsletter": {
+        "title": "Hírlevél",
+        "description": "Iratkozz fel hírlevelünkre a legfrissebb hírekért és betekintésekért.",
+        "placeholder": "Email címed",
+        "button": "Feliratkozás"
+      },
+      "copyright": "© 2025 0HM.AI. Minden jog fenntartva."
+    }
+  }
+}
