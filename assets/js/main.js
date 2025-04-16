@@ -151,7 +151,7 @@ function switchLanguage(lang) {
     
     // Reload the page with the new language
     if (lang === 'en') {
-        window.location.href = 'index.html';
+        window.location.href = 'index_en.html';
     } else {
         window.location.href = `index_${lang}.html`;
     }
@@ -163,12 +163,26 @@ document.addEventListener('DOMContentLoaded', function() {
     if (savedLanguage) {
         // Apply the saved language
         if (savedLanguage === 'en') {
-            // Already on English page
-        } else {
             const currentPage = window.location.pathname.split('/').pop();
             if (currentPage === 'index.html') {
+                window.location.href = 'index_en.html';
+            }
+        } else {
+            const currentPage = window.location.pathname.split('/').pop();
+            if (currentPage === 'index.html' || currentPage === 'index_en.html') {
                 window.location.href = `index_${savedLanguage}.html`;
             }
         }
+    }
+    
+    // Make language dropdown visible on click and stay visible
+    const languageBtn = document.querySelector('.language-btn');
+    const languageDropdown = document.querySelector('.language-dropdown');
+    
+    if (languageBtn && languageDropdown) {
+        languageBtn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            languageDropdown.style.display = languageDropdown.style.display === 'block' ? 'none' : 'block';
+        });
     }
 });
