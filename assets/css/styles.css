@@ -1219,3 +1219,14 @@ footer {
         padding-top: 39.375%; /* Maintain aspect ratio at 70% width */
     }
 }
+
+.disabled-btn {
+    opacity: 0.7;
+    cursor: not-allowed;
+    text-align: center;
+}
+
+input:disabled, textarea:disabled {
+    background-color: rgba(240, 240, 240, 0.3);
+    cursor: not-allowed;
+}
